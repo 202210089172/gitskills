@@ -4,7 +4,7 @@ import java.util.Random;
 public class PasswordManager {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("欢迎使用密码管理系统！");
+        System.out.println("欢迎使用密码管理系统！");//123456
 
         while (true) {
             System.out.println("请选择操作：");
