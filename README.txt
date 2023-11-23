@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 //import java.util.*;
-//1111111
+//11111112222
 public class PasswordManager {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
